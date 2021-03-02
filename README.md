@@ -23,4 +23,4 @@ It's simple
 * Use the mask obtained in the main file and run it.
 
 ### Demo
-
+![Demo](./Demo/demo.gif)
